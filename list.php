@@ -1,3 +1,7 @@
+<html>
+<head>
+</head>
+<body>
 <?php
     include "lib.php";
 ?>
@@ -26,3 +30,5 @@
 </table>
 
 <a href="write.php">글쓰기</a>
+</body>
+</html>
